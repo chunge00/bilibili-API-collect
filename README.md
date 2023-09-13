@@ -3,8 +3,7 @@
 </p>
 <h1 align="center">哔哩哔哩-API收集整理</h1>
 <p align="center">
-    <a href="https://github.com/SocialSisterYi/bilibili-API-collect/issues" style="text-decoration:none">
-        <img src="https://img.shields.io/github/issues/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub issues"/>
+src="https://img.shields.io/github/issues/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub issues"/>
     </a>
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/stargazers" style="text-decoration:none" >
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/network" style="text-decoration:none" >
