@@ -9,7 +9,7 @@ src="https://img.shields.io/github/issues/SocialSisterYi/bilibili-API-collect.sv
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/network" style="text-decoration:none" >
         <img src="https://img.shields.io/github/forks/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub forks"/>
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/actions">
-        <img src="https://img.shields.io/github/actions/workflow/status/SocialSisterYi/bilibili-API-collect/vuepress-deploy.yml">
+src="https://img.shields.io/github/actions/workflow/status/SocialSisterYi/bilibili-API-collect/vuepress-deploy.yml">
     </a>
     <a href="https://github.com/SocialSisterYi/bilibili-API-collect/blob/master/LICENSE" style="text-decoration:none" >
         <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="GitHub license"/>
